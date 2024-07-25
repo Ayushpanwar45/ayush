@@ -1,3 +1,3 @@
 # ayush
 this is my first github repository
-Author - Ayush 
+Author - Ayush Panwar
